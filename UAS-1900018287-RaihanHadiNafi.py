@@ -1,7 +1,7 @@
 import pandas as pd
 import plotly.express as px
 import streamlit as st
-st.set_page_config(page_title="Sales Dashboard",
+st.set_page_config(page_title="UAS-1900018287-RaihanHadiNafi",
                    page_icon=":bar_chart:", layout="wide")
 
 df = pd.read_excel(
